@@ -1,1 +1,1 @@
-# Random-Passwprd-generator
+# Random-Password-generator
